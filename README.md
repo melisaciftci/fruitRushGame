@@ -55,3 +55,7 @@ The game aims to provide an enjoyable gaming experience with its colorful graphi
 
 ## 📜 License
 This project is an academic work intended solely for educational purposes. It is a course project for CEN-118 Algorithms and Programming Lab II at Çukurova University.
+Copyright (c) 2024
+Melisa Ciftci, Sude Kırlar, İlayda Demir
+All rights reserved.
+
